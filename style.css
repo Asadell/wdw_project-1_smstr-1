@@ -45,18 +45,19 @@ header .overlay {
 header h1 {
     font-size: 36px;
     color: #fff;
-    position: absolute;
+    /* position: absolute;
     top: 50%;
-    z-index: 1;
+    z-index: 1; */
+  
     width: 100%;
 }
 
 header h2 {
     font-size: 24px;
     color: #fff;
-    position: absolute;
+    /* position: absolute;
     top: 60%;
-    z-index: 1;
+    z-index: 1; */
     width: 100%;
     margin-top: 40px;
 }
